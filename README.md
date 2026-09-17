@@ -18,3 +18,21 @@ View your app in AI Studio: https://ai.studio/apps/drive/1JLvfOkcRaRbNGBurL04oPq
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+<!-- omgithub:readme:start -->
+## 🚀 Build, play, and remix with OMGithub
+
+**Remixed using [OMGithub.com](https://omgithub.com).**
+
+[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://omgithub.com/les-ok-cloud/Mood-Period-Tracker-)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/les-ok-cloud/Mood-Period-Tracker-)
+
+- 🎮 [Open the project](https://omgithub.com/les-ok-cloud/Mood-Period-Tracker-).
+- ✨ [Remix this project](https://omgithub.com/?remix=les-ok-cloud%2FMood-Period-Tracker-).
+- 💻 [Explore the source](https://github.com/les-ok-cloud/Mood-Period-Tracker-).
+- 🛠️ [Check build runs](https://github.com/les-ok-cloud/Mood-Period-Tracker-/actions).
+- 🐛 [Report an issue](https://github.com/les-ok-cloud/Mood-Period-Tracker-/issues).
+- 👤 [Explore the creator's projects](https://omgithub.com/les-ok-cloud).
+- 🌍 [Create with OMGithub](https://omgithub.com).
+- 🧬 [Explore the remix source](https://github.com/les-ok-cloud/mood-period-tracker-/tree/3a6e02fc0afc2a2c1c50a3931d074aaac771a4c9).
+<!-- omgithub:readme:end -->
