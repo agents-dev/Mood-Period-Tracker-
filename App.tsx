@@ -15,6 +15,7 @@ import { Profile } from './components/Profile';
 import { Practices } from './components/Practices';
 import { SimpleHeader } from './components/SimpleHeader';
 import { BottomTabBar, type TabType } from './components/BottomTabBar';
+import { AIChatBot } from './components/AIChatBot';
 import { useAuth } from './contexts/AuthContext';
 import { Login } from './components/Login';
 import { db } from './lib/firebase';
@@ -620,6 +621,7 @@ const App: React.FC = () => {
         )}
 
         <BottomTabBar activeTab={activeTab} onTabChange={setActiveTab} />
+        <AIChatBot dailyData={dailyData} />
       </div>
     </div>
   );
