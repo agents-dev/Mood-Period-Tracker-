@@ -24,15 +24,15 @@ View your app in AI Studio: https://ai.studio/apps/drive/1JLvfOkcRaRbNGBurL04oPq
 
 **Remixed using [OMGithub.com](https://omgithub.com).**
 
-[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://omgithub.com/les-ok-cloud/Mood-Period-Tracker-)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/les-ok-cloud/Mood-Period-Tracker-)
+[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://omgithub.com/agents-dev/Mood-Period-Tracker-)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/agents-dev/Mood-Period-Tracker-)
 
-- 🎮 [Open the project](https://omgithub.com/les-ok-cloud/Mood-Period-Tracker-).
-- ✨ [Remix this project](https://omgithub.com/?remix=les-ok-cloud%2FMood-Period-Tracker-).
-- 💻 [Explore the source](https://github.com/les-ok-cloud/Mood-Period-Tracker-).
-- 🛠️ [Check build runs](https://github.com/les-ok-cloud/Mood-Period-Tracker-/actions).
-- 🐛 [Report an issue](https://github.com/les-ok-cloud/Mood-Period-Tracker-/issues).
-- 👤 [Explore the creator's projects](https://omgithub.com/les-ok-cloud).
+- 🎮 [Open the project](https://omgithub.com/agents-dev/Mood-Period-Tracker-).
+- ✨ [Remix this project](https://omgithub.com/?remix=agents-dev%2FMood-Period-Tracker-).
+- 💻 [Explore the source](https://github.com/agents-dev/Mood-Period-Tracker-).
+- 🛠️ [Check build runs](https://github.com/agents-dev/Mood-Period-Tracker-/actions).
+- 🐛 [Report an issue](https://github.com/agents-dev/Mood-Period-Tracker-/issues).
+- 👤 [Explore the creator's projects](https://omgithub.com/agents-dev).
 - 🌍 [Create with OMGithub](https://omgithub.com).
-- 🧬 [Explore the remix source](https://github.com/les-ok-cloud/mood-period-tracker-/tree/3a6e02fc0afc2a2c1c50a3931d074aaac771a4c9).
+- 🧬 [Explore the remix source](https://github.com/les-ok-cloud/Mood-Period-Tracker-).
 <!-- omgithub:readme:end -->
